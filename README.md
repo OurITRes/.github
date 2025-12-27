@@ -1,6 +1,11 @@
 # .github
-
-![ouritres.svg](https://github.com/OurITRes/.github/blob/main/ouritres.svg)
+<div style="display: flex; gap: 1rem; margin: 1rem 0;">
+  <div style="flex: 1; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
+    <h5>Card 1</h5>
+    <img src="[https://picsum.photos/300](https://github.com/OurITRes/.github/blob/main/ouritres.svg)" width="40" height="40">
+      
+  </div>
+</div>
 
 <!DOCTYPE html>
 <html lang="en">
