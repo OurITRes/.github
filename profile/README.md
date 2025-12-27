@@ -26,10 +26,12 @@
 ```text
 We map forests both digital and wide,
 Where zero trust serves as our guide.
+
 Our rigor turns chaos to pride.
 
 From PingCastle’s scores to each IAM chore,
 We built order where risks used to hide.
+
 Our fuego casts the shadows aside.
 ```
 
