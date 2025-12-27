@@ -3,10 +3,10 @@
 <table style="width: 100%; border-collapse: collapse; border: 0px ">
   <thead>
     <tr style="background-color: #f8f9fa;">
-      <th rowspan="2"  style="padding: 8px; margin-left: 0; margin-right: auto; text-align: left;"> <img src="https://github.com/OurITRes/.github/blob/main/ouritres.svg" width="120" height="120" style="display: block; "> </th>
+      <th rowspan="2"  style="padding: 8px; margin-left: 0; margin-right: auto; text-align: left;"><a href="https://git.ouritRes.com"> <img src="https://github.com/OurITRes/.github/blob/main/ouritres.svg" width="120" height="120" style="display: block; "></a> </th>
     </tr>
     <tr style="background-color: #f8f9fa;">
-      <th style="padding: 8px;"><span style="font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; "><a href="https://github.com/OurITRes">ouritres.com</a> - </span>"Governing the Core. Automating the Services."</th>
+      <th style="padding: 8px;"><span style="font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; "><a href="https://git.ouritRes.com">git.ouritres.com</a> - </span>"Governing the Core. Automating the Services."</th>
     </tr>
   </thead>
 </table>
