@@ -1,11 +1,15 @@
 # .github
+
 <div style="display: flex; gap: 1rem; margin: 1rem 0;">
   <div style="flex: 1; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
-    <h5>Card 1</h5>
-    <div class="text-center">
-        <h3 class="text-3xl font-extrabold text-[#2C3E50] leading-none">our<span class="text-[#00E5FF]">IT</span></h3>
-        <span class="text-sm font-semibold text-[#2C3E50] tracking-widest mt-1">RESOURCES</span>
-    </div>
+    <div style="text-align: center;">
+  <h3 style="font-size: 1.875rem; font-weight: 800; color: #2C3E50; line-height: 1;">
+    our<span style="color: #00E5FF;">IT</span>
+  </h3>
+  <span style="font-size: 0.875rem; font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; margin-top: 0.25rem; display: inline-block;">
+    RESOURCES
+  </span>
+</div>
     <img src="https://github.com/OurITRes/.github/blob/main/ouritres.svg" width="40" height="40">
   </div>
 </div>
