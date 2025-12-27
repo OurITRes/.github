@@ -23,6 +23,16 @@
   </thead>
 </table>
 
+```text
+We map forests both digital and wide,
+Where zero trust serves as our guide.
+Our rigor turns chaos to pride.
+
+From PingCastle’s scores to each IAM chore,
+We built order where risks used to hide.
+Our fuego casts the shadows aside.
+```
+
 <h2 style="font-size:1.125rem; font-weight:700; color:#4169E1; margin:0 0 24px 0; text-transform:uppercase; letter-spacing:0.08em;">SITARCA</h2>
 
 <table style="width: 100%; border-collapse: collapse; border: 0px solid #ddd;">
@@ -65,12 +75,3 @@
   </thead>
 </table>
 
-```text
-I map forests both digital and wide,
-Where zero trust serves as my guide.
-My rigor turns chaos to pride.
-
-From PingCastle’s scores to each IAM chore,
-I built order where risks used to hide.
-My fuego casts the shadows aside.
-```
