@@ -3,7 +3,7 @@
 <table style="width: 100%; border-collapse: collapse; border: 0px solid #ddd;">
   <thead>
     <tr style="background-color: #f8f9fa;">
-      <th rowspan="2" style="padding: 8px;"> <img src="https://github.com/OurITRes/.github/blob/main/ouritres.svg" width="40" height="40"> </th>
+      <th rowspan="2" style="padding: 8px;"> <img src="https://github.com/OurITRes/.github/blob/main/ouritres.svg" width="100" height="100"> </th>
       <th style="padding: 8px; font-weight: 800;"><span style="color: #2C3E50;">our</span><span style="color: #00E5FF;">IT</span></th>
     </tr>
     <tr style="background-color: #f8f9fa;">
@@ -31,12 +31,20 @@
 <table style="width: 100%; border-collapse: collapse; border: 0px solid #ddd;">
   <thead>
     <tr style="background-color: #f8f9fa;">
-      <th rowspan="2" style="padding: 8px;"> <img src="https://github.com/OurITRes/.github/blob/main/ouritres.svg" width="40" height="40"> </th>
-      <th style="padding: 8px; font-weight: 800;"><span style="color: #2C3E50;">our</span><span style="color: #00E5FF;">IT</span></th>
+      <th rowspan="2" style="padding: 8px;"> <img src="https://github.com/OurITRes/.github/blob/main/sitarca.svg" width="60" height="60"> </th>
     </tr>
     <tr style="background-color: #f8f9fa;">
-      <th style="padding: 8px;"><span style="font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; "><small>RESOURCES</small></span></th>
+      <th style="padding: 8px;"><span style="font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; ">Synchronized Intelligence, Tiered Automated Remediation &amp; Conformity Alignment <i>app</i></th>
     </tr>
+  </thead>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0px solid #ddd;">
+  <thead>
+    <tr>
+      <th style="padding: 8px;"> <span>HEX</span> <span>#4169E1</span> </th>
+    </tr>
+
   </thead>
 </table>
 
@@ -65,7 +73,7 @@
 
   <div style="text-align:center;">
     <h3 style="font-size:1.25rem; font-weight:700; color:#4169E1; letter-spacing:0.06em; margin:0;">SITARCA</h3>
-    <p style="font-size:0.6rem; color:#9CA3AF; margin-top:8px; max-width:150px; line-height:1.1;">Synchronized Intelligence, Tiered Automated Remediation &amp; Conformity Alignment</p>
+    <p style="font-size:0.6rem; color:#9CA3AF; margin-top:8px; max-width:150px; line-height:1.1;"></p>
   </div>
 
   <div style="margin-top:32px; width:100%;">
