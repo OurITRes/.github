@@ -24,7 +24,7 @@
   </thead>
 </table>
 
-<h2 style="font-size:1.125rem; font-weight:700; color:#4169E1; margin:0 0 24px 0; text-transform:uppercase; letter-spacing:0.08em;">Module SITARCA</h2>
+<h2 style="font-size:1.125rem; font-weight:700; color:#4169E1; margin:0 0 24px 0; text-transform:uppercase; letter-spacing:0.08em;">SITARCA</h2>
 
 <table style="width: 100%; border-collapse: collapse; border: 0px solid #ddd;">
   <thead>
@@ -32,7 +32,7 @@
       <th rowspan="2" style="padding: 8px;"> <img src="https://github.com/OurITRes/.github/blob/main/sitarca.svg" width="60" height="60"> </th>
     </tr>
     <tr style="background-color: #f8f9fa;">
-      <th style="padding: 8px;"><span style="font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; ">Synchronized Intelligence, Tiered Automated Remediation &amp; Conformity Alignment <i>app</i></th>
+      <th style="padding: 8px;"><span style="font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; ">Synchronized Intelligence, Tiered Automated Remediation &amp; Conformity Alignment</th>
     </tr>
   </thead>
 </table>
@@ -45,7 +45,7 @@
   </thead>
 </table>
 
-<h2 style="font-size:1.125rem; font-weight:700; color:#4169E1; margin:0 0 24px 0; text-transform:uppercase; letter-spacing:0.08em;">Module SAGAPI</h2>
+<h2 style="font-size:1.125rem; font-weight:700; color:#4169E1; margin:0 0 24px 0; text-transform:uppercase; letter-spacing:0.08em;">SAGAPI</h2>
 
 <table style="width: 100%; border-collapse: collapse; border: 0px solid #ddd;">
   <thead>
@@ -53,7 +53,7 @@
       <th rowspan="2" style="padding: 8px;"> <img src="https://github.com/OurITRes/.github/blob/main/sagapi.svg" width="60" height="60"> </th>
     </tr>
     <tr style="background-color: #f8f9fa;">
-      <th style="padding: 8px;"><span style="font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; ">Service Account Governance &amp; Automation Programmable Interface <i>app</i></th>
+      <th style="padding: 8px;"><span style="font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; ">Service Account Governance &amp; Automation Programmable Interface</th>
     </tr>
   </thead>
 </table>
