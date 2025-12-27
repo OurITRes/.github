@@ -65,6 +65,7 @@
   </thead>
 </table>
 
+```text
 I map forests both digital and wide,
 Where zero trust serves as my guide.
 My rigor turns chaos to pride.
@@ -72,4 +73,4 @@ My rigor turns chaos to pride.
 From PingCastle’s scores to each IAM chore,
 I built order where risks used to hide.
 My fuego casts the shadows aside.
-
+```
