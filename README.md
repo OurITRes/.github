@@ -1,6 +1,6 @@
 # .github
 
-![ouritres.svg]([https://picsum.photos/300](https://github.com/OurITRes/.github/blob/main/ouritres.svg))
+![ouritres.svg](https://github.com/OurITRes/.github/blob/main/ouritres.svg)
 
 <!DOCTYPE html>
 <html lang="en">
