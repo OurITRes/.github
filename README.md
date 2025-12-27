@@ -2,6 +2,10 @@
 <div style="display: flex; gap: 1rem; margin: 1rem 0;">
   <div style="flex: 1; padding: 1rem; border: 1px solid #ddd; border-radius: 8px;">
     <h5>Card 1</h5>
+    <div class="text-center">
+        <h3 class="text-3xl font-extrabold text-[#2C3E50] leading-none">our<span class="text-[#00E5FF]">IT</span></h3>
+        <span class="text-sm font-semibold text-[#2C3E50] tracking-widest mt-1">RESOURCES</span>
+    </div>
     <img src="https://github.com/OurITRes/.github/blob/main/ouritres.svg" width="40" height="40">
   </div>
 </div>
@@ -41,10 +45,8 @@
                     </svg>
                 </div>
                 <div class="text-center">
-                    <h3 class="text-3xl font-extrabold text-[#2C3E50] leading-none">
-                        our<span class="text-[#00E5FF]">IT</span>
-                    </h3>
-                    <p class="text-sm font-semibold text-[#2C3E50] tracking-widest mt-1">RESOURCES</p>
+                    <h3 class="text-3xl font-extrabold text-[#2C3E50] leading-none">our<span class="text-[#00E5FF]">IT</span></h3>
+                    <span class="text-sm font-semibold text-[#2C3E50] tracking-widest mt-1">RESOURCES</span>
                 </div>
                 <div class="mt-8 w-full">
                     <div class="flex items-center justify-between text-xs text-gray-400 mb-2">
