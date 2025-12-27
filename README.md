@@ -1,7 +1,19 @@
 # .github
-<svg viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M70 40 L30 100 L70 160" stroke="#2C3E50" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path d="M130 40 L170 100 L130 160" stroke="#00E5FF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
-                        <circle cx="100" cy="100" r="15" fill="#2C3E50" opacity="0.1"/>
-                    </svg> 
-                    Our IT Resources
+<!-- SVG Logo -->
+<div class="w-48 h-48 mb-6 relative">
+    <svg viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <!-- Left Bracket (Dark Gray) -->
+        <path d="M70 40 L30 100 L70 160" stroke="#2C3E50" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+        <!-- Right Bracket (Cyan) -->
+        <path d="M130 40 L170 100 L130 160" stroke="#00E5FF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+        <!-- Center O (Negative space implied by curvature or explicit shape) -->
+        <!-- Adding a subtle tech 'core' diamond in the middle to emphasize the O space -->
+        <circle cx="100" cy="100" r="15" fill="#2C3E50" opacity="0.1"/>
+    </svg>
+</div> 
+<div class="text-center">
+    <h3 class="text-3xl font-extrabold text-[#2C3E50] leading-none">
+        our<span class="text-[#00E5FF]">IT</span>
+    </h3>
+    <p class="text-sm font-semibold text-[#2C3E50] tracking-widest mt-1">RESOURCES</p>
+</div>
