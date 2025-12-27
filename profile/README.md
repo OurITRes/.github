@@ -1,18 +1,17 @@
-# .github Organization
+# Organization <em>Our IT Resources</em>
 
-<table style="width: 100%; border-collapse: collapse; border: 0px solid #ddd;">
+<table style="width: 100%; border-collapse: collapse; border: 0px ">
   <thead>
     <tr style="background-color: #f8f9fa;">
-      <th rowspan="2" style="padding: 8px;"> <img src="https://github.com/OurITRes/.github/blob/main/ouritres.svg" width="100" height="100"> </th>
-      <th style="padding: 8px; font-weight: 800;"><span style="color: #2C3E50;">our</span><span style="color: #00E5FF;">IT</span></th>
+      <th rowspan="2"  style="padding: 8px; margin-left: 0; margin-right: auto; text-align: left;"> <img src="https://github.com/OurITRes/.github/blob/main/ouritres.svg" width="120" height="120" style="display: block; "> </th>
     </tr>
     <tr style="background-color: #f8f9fa;">
-      <th style="padding: 8px;"><span style="font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; "><small>RESOURCES</small></span></th>
+      <th style="padding: 8px;"><span style="font-weight: 600; color: #2C3E50; letter-spacing: 0.1em; "><a href="https://github.com/OurITRes">ouritres.com</a> - </span>"Governing the Core. Automating the Services."</th>
     </tr>
   </thead>
 </table>
 
-<p style="font-size:1.25rem; color:#6B7280; font-style:italic; margin:0;">"Governing the Core. Automating the Services."</p>
+<p style="font-size:1.25rem; color:#6B7280; font-style:italic; margin:0;"></p>
 
 <table style="width: 100%; border-collapse: collapse; border: 0px solid #ddd;">
   <thead>
